@@ -1,0 +1,182 @@
+[
+  {
+    "email": "utereskovi@gmail.com",
+    "password": "M#2s7VoC",
+    "proxy":  "http://bZ9zK6_0:J34673pSZvnu@rg-45847.sp4.ovh:11001",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Мій",
+    "owner": "@utereskovi",
+    "description": "works"
+  },
+  {
+    "email": "grandPaNBU@gmail.com",
+    "password": "uYoC(I8J",
+    "proxy": "socks5://JTOVUig_1:jNlw0ROwb1V4@dg-45857.sp4.ovh:11002",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Дід Борис",
+    "owner": "@utereskovi",
+    "description": "works"
+  },
+  {
+    "email": "yuteresh0803@gmail.com",
+    "password": "g$cmyrqj",
+    "proxy": "socks5://JTOVUig_2:jNlw0ROwb1V4@dg-45857.sp4.ovh:11003",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Мама",
+    "owner": "@utereskovi",
+    "description": "no"
+  },
+  {
+    "email": "dmter@yahoo.com",
+    "password": "QV-A62sA",
+    "proxy": "socks5://JTOVUig_3:jNlw0ROwb1V4@dg-45857.sp4.ovh:11004",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Тато",
+    "owner": "@utereskovi",
+    "description": "no"
+  },
+  {
+    "email": "grandmanbu@gmail.com",
+    "password": "Grand123ma5&",
+    "proxy": "socks5://JTOVUig_4:jNlw0ROwb1V4@dg-45857.sp4.ovh:11005",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Бабуся Маша",
+    "owner": "@utereskovi",
+    "description": "works"
+  },
+  {
+    "email": "marmel1704006@gmail.com",
+    "password": "P@ssw0rd",
+    "proxy": "socks5://JTOVUig_5:jNlw0ROwb1V4@dg-45857.sp4.ovh:11006",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Марійка Мельник",
+    "description": "works",
+    "owner": "@utereskovi"
+  }
+,
+  {
+    "email": "skybarfamily@gmail.com",
+    "password": "Kj#f6R+u6,J4",
+    "proxy": "socks5://JTOVUig_6:jNlw0ROwb1V4@dg-45857.sp4.ovh:11007",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Татовий знайомий з роботи",
+    "description": "works"
+  }
+,
+  {
+    "email": "nataliakushil@gmail.com",
+    "password": "FuzC+kqe",
+    "proxy": "socks5://JTOVUig_7:jNlw0ROwb1V4@dg-45857.sp4.ovh:11008",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Хрещена",
+    "description": "works"
+  }
+
+,
+  {
+    "email": "ostapchukvladislav77@gmail.com",
+    "password": "Vlad2121!",
+    "proxy": "socks5://JTOVUig_9:jNlw0ROwb1V4@dg-45857.sp4.ovh:11010",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "остапчук влад",
+    "owner": "@utereskovi",
+    "description": "works"
+  }
+,
+  {
+    "email": "Vgrabovskyy05@gmail.com",
+    "password": "Barabola100!",
+    "proxy": "socks5://JTOVUig_10:jNlw0ROwb1V4@dg-45857.sp4.ovh:11011",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Віталік (марійка)",
+    "description": "works",
+    "owner": "@utereskovi"
+  }
+,
+  {
+    "email": "mywork123213@gmail.com",
+    "password": "12345678Yr!",
+    "proxy": "socks5://JTOVUig_11:jNlw0ROwb1V4@dg-45857.sp4.ovh:11012",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Міша Маліновський",
+    "owner": "@utereskovi",
+    "description": "works"
+  }
+,
+  {
+    "email": "ludmilater1946@gmail.com",
+    "password": "Firstem&1",
+    "proxy": "socks5://JTOVUig_12:jNlw0ROwb1V4@dg-45857.sp4.ovh:11013",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Бабуся Люда (Татовий телефон)",
+    "owner": "@utereskovi",
+    "description": "no"
+  }
+,
+  {
+    "email": "fiamuzychko@gmail.com",
+    "password": "Bbxyh13’",
+    "proxy": "socks5://JTOVUig_13:jNlw0ROwb1V4@dg-45857.sp4.ovh:11014",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Софія Музичко",
+    "description": "works"
+  }
+,
+  {
+    "email": "datavaultprotected@gmail.com",
+    "password": "10249Bo102/",
+    "proxy": "socks5://JTOVUig_14:jNlw0ROwb1V4@dg-45857.sp4.ovh:11015",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Репницька",
+    "description": "works"
+  },
+  {
+    "email": "nmgrachova@gmail.com",
+    "password": "монети@Укр1",
+    "proxy": "socks5://JTOVUig_8:jNlw0ROwb1V4@dg-45857.sp4.ovh:11009",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Дядя Грачов",
+    "owner": "@utereskovi",
+    "description": "works"
+  }
+
+
+
+
+
+
+]

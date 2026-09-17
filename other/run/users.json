@@ -1,0 +1,35 @@
+[
+  {
+    "email": "utereskovi@gmail.com",
+    "password": "M#2s7VoC",
+    "proxy":  "http://bZ9zK6_0:J34673pSZvnu@rg-45847.sp4.ovh:11001",
+    "coinIds": [
+      1168,1179
+    ],
+    "BorrowedFrom": "Мій",
+    "owner": "@utereskovi",
+    "description": "works"
+  },
+    {
+    "email": "nataliakushil@gmail.com",
+    "password": "FuzC+kqe",
+    "proxy": "socks5://JTOVUig_7:jNlw0ROwb1V4@dg-45857.sp4.ovh:11008",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Хрещена",
+    "description": "works"
+  },
+    {
+    "email": "skybarfamily@gmail.com",
+    "password": "Kj#f6R+u6,J4",
+    "proxy": "socks5://JTOVUig_6:jNlw0ROwb1V4@dg-45857.sp4.ovh:11007",
+    "coinIds": [
+      1168,1179
+    ],
+    "owner": "@utereskovi",
+    "BorrowedFrom": "Татовий знайомий з роботи",
+    "description": "works"
+  }
+]
