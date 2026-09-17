@@ -1,35 +1,36 @@
 [
-  {
-    "email": "utereskovi@gmail.com",
-    "password": "M#2s7VoC",
-    "proxy":  "http://bZ9zK6_0:J34673pSZvnu@rg-45847.sp4.ovh:11001",
+   {
+    "email": "titaslav@gmail.com",
+    "password": "Nbu$P1daras$",
+    "proxy": "socks5://JTOVUig_13:jNlw0ROwb1V4@dg-45857.sp4.ovh:11014",
     "coinIds": [
       1168,1179
     ],
-    "BorrowedFrom": "Мій",
-    "owner": "@utereskovi",
+    "owner": "+380505634405",
+    "BorrowedFrom": "+380505634405",
     "description": "works"
   },
-    {
-    "email": "nataliakushil@gmail.com",
-    "password": "FuzC+kqe",
-    "proxy": "socks5://JTOVUig_7:jNlw0ROwb1V4@dg-45857.sp4.ovh:11008",
+
+   {
+    "email": "natali.mostu@ukr.net",
+    "password": "Qwer1234.",
+    "proxy": "socks5://JTOVUig_13:jNlw0ROwb1V4@dg-45857.sp4.ovh:11014",
     "coinIds": [
       1168,1179
     ],
-    "owner": "@utereskovi",
-    "BorrowedFrom": "Хрещена",
+    "owner": "roman",
+    "BorrowedFrom": "roman",
     "description": "works"
   },
-    {
-    "email": "skybarfamily@gmail.com",
-    "password": "Kj#f6R+u6,J4",
-    "proxy": "socks5://JTOVUig_6:jNlw0ROwb1V4@dg-45857.sp4.ovh:11007",
+   {
+    "email": "mukolagrechanovskiy@ukr.net",
+    "password": "Mukola60!",
+    "proxy": "socks5://JTOVUig_13:jNlw0ROwb1V4@dg-45857.sp4.ovh:11014",
     "coinIds": [
       1168,1179
     ],
-    "owner": "@utereskovi",
-    "BorrowedFrom": "Татовий знайомий з роботи",
+    "owner": "Roman",
+    "BorrowedFrom": "roman",
     "description": "works"
   }
 ]
