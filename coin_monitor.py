@@ -229,11 +229,13 @@ class CoinDropMonitor:
             await asyncio.sleep(excess_sleep / 1000)
 
         # 2. Тест проксі
-        best_proxies = await self.filter_best_proxies()
+        #change
+        best_proxies = self.raw_proxies
         if not best_proxies:
             raise RuntimeError("Неможливо розпочати: немає робочих проксі!")
 
         best_proxies = best_proxies[: self.max_users]
+        print("проксі протестили.")
 
         # 3. Буферний сон (CAPTCHA)
         ms_until_release = drop_ms - (datetime.now().timestamp() * 1000)

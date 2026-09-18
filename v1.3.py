@@ -16,13 +16,13 @@ from coin_monitor import CoinDropMonitor
 CONFIG = {
     "SITEKEY": "0x4AAAAAAA6b9cm3XGGgkDP-",
     "BASE_URL": "https://coins.bank.gov.ua",
-    "NUMBER_OF_CAPTCHAS": 1,
-    "CoinIds": [838],
-    "FirstCoinUrl": "https://coins.bank.gov.ua/pam-jatna-banknota-nominalom-20-grn-do-160-richchja-vid-dnja-narodzhennja-i-phranka/p-838.html",
-    "MonitorIntervalMS": 1000,
+    "NUMBER_OF_CAPTCHAS": 2,
+    "CoinIds": [1211],
+    "FirstCoinUrl": "https://coins.bank.gov.ua/-do-35-richchja-nezalezhnosti-ukrajini-c-/p-1211.html",
+    "MonitorIntervalMS": 500,
     "CAPSOLVER_KEY": "CAP-BC1653549B7FEC08E255E96BB854831EBD9B38ABDD629F0C0FB0C5A1B5BF016E"
 }
-reload_startTime = datetime.now().replace(hour=20, minute=37, second=0, microsecond=0)
+reload_startTime = datetime.now().replace(hour=9, minute=39, second=0, microsecond=0)
 # log_filename = f'logs/{datetime.now().strftime("%Y%m%d-%H%M%S")}.log'
 CAPTCHA_BUFFER_MS = 180 * 1000
 
